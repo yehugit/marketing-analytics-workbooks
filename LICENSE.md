@@ -1,6 +1,6 @@
 # License
 
-Copyright (c) YEAR Ye Hu.
+Copyright (c) 2027 Ye Hu.
 
 The workbooks in this repository are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
