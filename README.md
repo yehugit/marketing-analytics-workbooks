@@ -2,7 +2,7 @@
 
 This repository holds the Excel workbooks used in the Excel Labs of *Marketing Analytics in Excel* by Ye Hu.
 
-**Readers: download the workbooks from the book's download page, https://WORKBOOK-ADDRESS, not from the file list below.** The download page gives one zip file per chapter.
+**Readers: download the workbooks from the book's download page, https://github.com/yehugit/marketing-analytics-workbooks/, not from the file list below.** The download page gives one zip file per chapter.
 
 ## What is here
 
