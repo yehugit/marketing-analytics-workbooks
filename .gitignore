@@ -1,0 +1,7 @@
+# Excel lock files and system files
+~$*
+.~lock.*
+.DS_Store
+Thumbs.db
+desktop.ini
+dist/
