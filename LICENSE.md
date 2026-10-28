@@ -10,7 +10,7 @@ Full legal text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
 You may copy, share, and adapt these workbooks, including distributing them to students in a course, provided that:
 
-- you give credit: "From the companion workbooks to Marketing Analytics in Excel by Ye Hu," with a link to [https://WORKBOOK-ADDRESS](https://github.com/yehugit/marketing-analytics-workbooks/; and
+- you give credit: "From the companion workbooks to Marketing Analytics in Excel by Ye Hu," with a link to [https://github.com/yehugit/marketing-analytics-workbooks/]https://github.com/yehugit/marketing-analytics-workbooks/; and
 - you do not use them for commercial purposes, such as selling them or including them in a paid product.
 
 This summary is not a substitute for the legal text, which governs.
