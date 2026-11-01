@@ -6,13 +6,11 @@ This repository holds the Excel workbooks used in the Excel Labs of *Marketing A
 
 ## What is here
 
-    workbooks/ch01/ ... ch11/   starting workbooks for each chapter's labs
+    workbooks/                  workbooks for each chapter's labs
     docs/                       the download page (published with GitHub Pages)
     CHANGELOG.md                workbook versions and the book printings they match
     ERRATA.md                   corrections to the book and the workbooks
     LICENSE.md                  terms of use
-
-Chapters 12 and 13 use workbooks from earlier chapters and have no folders of their own.
 
 ## Opening the files
 
