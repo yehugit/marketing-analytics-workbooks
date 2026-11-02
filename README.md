@@ -16,6 +16,10 @@ This repository holds the Excel workbooks used in the Excel Labs of *Marketing A
 
 Extract the zip file before opening a workbook; Excel opens files inside a zip as read-only. If Excel shows a yellow Protected View bar, click Enable Editing. The labs were written in Excel for Microsoft 365 on Windows. Nearly everything works the same on a Mac. Excel on the web, on tablets, and on Chromebooks lacks features some chapters need, including Solver.
 
+## Online Demos
+
+Online demonstrations of the Excel examples and video lectures used for teaching Marketing Analytics are available at https://www.youtube.com/playlist?list=PL5jUE3nEkgvVYaz7esB8y5150UDR-HJaw
+
 ## Instructors
 
 Completed solution workbooks and answers to the end-of-chapter exercises are not in this repository. Instructors who adopt the book can request them at INSTRUCTOR-CONTACT.
